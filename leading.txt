@@ -1,0 +1,23 @@
+...Snake game...
+
+>>The "head" of the snake continually moves forward,
+unable to stop, growing ever longer. It must be
+steered left, right, up, and down to avoid hitting
+walls and the body of either snake. The player who
+survives the longest wins. Single-player versions are
+less prevalent and have one or more snakes controlled
+by the computer, as in the light cycles segment of the
+1982 Tron arcade game.
+
+>>Save you Polzun and make him happy with the
+longest tail.
+
+>>Avoid enemy snake, your body
+and end of massive(pole)
+
+>>Angry snake enemy dont want to be your
+snake friend
+
+
+>>goodluck<<     _0_          ___
+                                      \____\      \__
