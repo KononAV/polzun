@@ -16,11 +16,12 @@ Interface created in **digital-minimalism** style.
 
 <details>
   <summary>Show screenshots..</summary>
-  
+  <p align="left">
     <img width="250" alt="image1" src="https://github.com/user-attachments/assets/7015921b-9cf4-46e8-932f-79202cb26804" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="250" alt="image2" src="https://github.com/user-attachments/assets/2a181f10-b032-4358-867c-09471bd702d6" />
-
+  </p>
 </details>
+
 
 
 ## *Gameplay*
