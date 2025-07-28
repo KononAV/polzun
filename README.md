@@ -10,8 +10,8 @@
 This is my first fully completed game built with Python and the Tkinter GUI toolkit.
 All UI elements are created entirely with text and dynamic transitions, utilizing pure Tkinter features — no external libraries.
 
+## *Screenshots*
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/7015921b-9cf4-46e8-932f-79202cb26804" />
-
 
 <img src= "https://github.com/user-attachments/assets/783f3a7b-8007-42fa-87cc-77584cdd5be7" alt="Polzun" width="400"/>
 
