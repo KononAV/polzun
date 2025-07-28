@@ -21,5 +21,18 @@ Interface created in **digital-minimalism** style.
 <img width="250"  alt="image" src="https://github.com/user-attachments/assets/2a181f10-b032-4358-867c-09471bd702d6" />
 </details>
 
+## *Gameplay*
 
-<img src= "https://github.com/user-attachments/assets/783f3a7b-8007-42fa-87cc-77584cdd5be7" alt="Polzun" width="400"/>
+Classic **Snake** mechanics — minimalistic, responsive, and fun to play.
+
+- **Objective:** Eat food to grow the snake and score points.
+- **Controls:** Use arrow keys (`↑ ↓ ← →`) to change direction.
+- **Speed scaling:** Game gradually speeds up as your score increases.
+- **Obstacles:** Avoid hitting walls or your own tail.
+- **Game Over:** Collision with wall or self ends the game.
+- **Restart system:** Quick restart available after game over.
+- **No external libraries:** Built entirely with `tkinter` and Python standard tools.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/783f3a7b-8007-42fa-87cc-77584cdd5be7" alt="Polzun gameplay" width="400"/>
+</p>
