@@ -36,6 +36,7 @@ Classic **Snake** mechanics — minimalistic, responsive, and fun to play.
 - **Restart system:** Quick restart available after game over.
 - **No external libraries:** Built entirely with `tkinter` and Python standard tools.
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/783f3a7b-8007-42fa-87cc-77584cdd5be7" alt="Polzun gameplay" width="400"/>
 </p>
