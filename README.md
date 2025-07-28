@@ -31,7 +31,7 @@ Classic **Snake** mechanics — minimalistic, responsive, and fun to play.
 - **Objective:** Eat food to grow the snake and score points.
 - **Controls:** Use *W A S D* to change direction.
 - **Speed scaling:** Game gradually speeds up as your score increases.
-- **Obstacles:** Avoid hitting walls, holes, angry enemy snake or your own tail.
+- **Obstacles:** Avoid hitting walls, holes, angry enemy snake, or your own tail.
 - **Game Over:** Collision with wall or self ends the game.
 - **Restart system:** Quick restart available after game over.
 - **No external libraries:** Built entirely with `tkinter` and Python standard tools.
