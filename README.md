@@ -13,6 +13,6 @@ All UI elements are created entirely with text and dynamic transitions, utilizin
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/7015921b-9cf4-46e8-932f-79202cb26804" />
 
 
-<img src= "https://github.com/user-attachments/assets/783f3a7b-8007-42fa-87cc-77584cdd5be7" alt="Polzun" width="450"/>
+<img src= "https://github.com/user-attachments/assets/783f3a7b-8007-42fa-87cc-77584cdd5be7" alt="Polzun" width="400"/>
 
 <img width="250"  alt="image" src="https://github.com/user-attachments/assets/2a181f10-b032-4358-867c-09471bd702d6" />
