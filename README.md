@@ -35,6 +35,7 @@ Classic **Snake** mechanics — minimalistic, responsive, and fun to play.
 - **Game Over:** Collision with wall or self ends the game.
 - **Restart system:** Quick restart available after game over.
 - **No external libraries:** Built entirely with `tkinter` and Python standard tools.
+- **Random generated map:** Each game session features a unique random map that influences gameplay dynamics.
 
 
 <p align="center">
